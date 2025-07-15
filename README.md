@@ -1,7 +1,5 @@
 # VulFinder
-Submit to AAAI related data and code
-
-## Anonymous repository for IJCAI 2025
+## Anonymous repository related data and code for AAAI 2026 
 This repository accompanies the paper "VulFinder: A Multi-Agent-Driven Test Generation Framework for Guiding Vulnerability Reachability Analysis".
 
 Pairs of downstream applications and depedency where the vulnerabilty can be exploited from the downstream applications (Positive cases).
