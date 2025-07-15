@@ -283,7 +283,7 @@ Pairs of downstream applications and depedency where the vulnerabilty can be exp
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
   <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-54087<o:p></o:p></span></p>
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-5408<o:p></o:p></span></p>
   </td>
   <td width="104" nowrap="" valign="top" style="width:77.95pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -306,7 +306,7 @@ Pairs of downstream applications and depedency where the vulnerabilty can be exp
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
   <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-54087<o:p></o:p></span></p>
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-5408<o:p></o:p></span></p>
   </td>
   <td width="104" nowrap="" valign="top" style="width:77.95pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1279,7 +1279,7 @@ Negativa dataset
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
   <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-54087<o:p></o:p></span></p>
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-5408<o:p></o:p></span></p>
   </td>
   <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1295,7 +1295,7 @@ Negativa dataset
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:14.25pt">
   <p class="MsoNormal" align="left" style="text-align:left;mso-pagination:widow-orphan"><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-54087<o:p></o:p></span></p>
+  mso-fareast-font-family:等线;color:black;mso-font-kerning:0pt">CVE-2020-5408<o:p></o:p></span></p>
   </td>
   <td width="284" nowrap="" valign="top" style="width:212.65pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
